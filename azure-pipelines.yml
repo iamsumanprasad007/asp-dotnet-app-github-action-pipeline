@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: 'Default'
+pool: De
+  vmImage: 'Default-DESKTOP-5F67001'
 
 variables:
   solution: '**/*.sln'
